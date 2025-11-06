@@ -1,0 +1,9 @@
+streamlit==1.28.0
+torch==2.0.1
+torchvision==0.15.2
+fastai==2.7.12
+Pillow==10.0.0
+numpy==1.24.3
+scikit-image==0.21.0
+matplotlib==3.7.2
+gdown==4.7.1
